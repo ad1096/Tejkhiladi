@@ -1,0 +1,1041 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media screen and (max-width:1024px){
+
+	.headng1-dv-txt h4
+{
+	font-size:25px;
+	margin-top:20px;
+	
+}
+
+.headng1-dv-txt h4 span
+{
+	font-size:15px;
+	
+}
+
+.headng2-dv-txt h4
+{
+	font-size:25px;
+	margin-left: 20px;
+	margin-top:20px;
+	
+}
+
+.headng2-dv-txt h4 span
+{
+	font-size:15px;
+	
+}
+
+.headng3-dv-txt h4
+{
+	font-size:25px;
+	margin-left: 20px;
+	margin-top:20px;
+	
+}
+
+.headng3-dv-txt h4 span
+{
+	font-size:15px;
+	
+}
+
+.tm1-bgg img {
+    width: 170px;
+    height: 170px;
+    top: -33px;
+    left: 165px;
+}
+
+.upcoming_match-tab-dv .tab-content .nv-pll-hdng {
+   
+    font-size: 32px;
+}
+
+.upcoming_match-tab-dv .tab-content .nv-pll-parag {
+    
+    font-size: 25px;
+}
+
+
+/*about us page start here*/
+
+.dcl-dvv_plr img {
+    margin-top: -150px;
+}
+
+.dcl-dvv {
+    
+    padding: 60px 0;
+}
+
+/*contact us page start here*/
+
+.dcsc-dvv_plr img {
+    margin-top: -100px;
+}
+
+.dcsc-dvv {
+    
+    padding: 60px 0;
+}
+
+/*how to play page start here*/ 
+
+.dcpk-dvv_plr img {
+    margin-top: -230px;
+}
+
+
+}
+
+@media screen and (max-width:668px){
+
+	
+.bnr1-prt input {
+    padding: 13px 0;
+    font-size: 15px;
+}
+
+.bt-frm {
+    padding: 0px 70px;
+    margin-left: -20px;
+}
+
+
+.tm1-bgg img {
+    width: 170px;
+    height: 170px;
+    top: -33px;
+    left: 72px;
+}
+
+.tm2-bgg img {
+    width: 170px;
+    height: 170px;
+    top: -33px;
+    left: -80px;
+}
+
+.player-dv-txt .anbp {
+    padding: 1px 0;
+}
+
+.player-dv-txt .anbp img {
+    width: 70px;
+    height: 70px;
+    top: -13px;
+    left: -38px;
+}
+
+.player-dv-txt .anbp p {
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.player2-dv-txt .anbp {
+    padding: 1px 0;
+}
+
+.player2-dv-txt .anbp img {
+    width: 70px;
+    height: 70px;
+    top: -13px;
+    left: -32px;
+}
+
+.player2-dv-txt .anbp p {
+    font-size: 18px;
+}
+
+.flse-dv {
+    
+    margin-left: 24px;
+}
+
+.upcoming_match-tab-dv .tab-content .nv-pll-parag {
+    font-size: 16px;
+}
+.upcoming_match-tab-dv .tab-content .nv-pll-hdng {
+    font-size: 20px;
+}
+
+.decrb-dv-txt h4 img {
+    width: 210px;
+}
+
+.decrb-dv-txt h4 {
+    font-size: 20px;
+}
+
+ .social-icons ul li img
+ {
+   width:41px;
+}
+.copy_r {
+    
+    padding-top: 0px;
+}
+
+.headng1-dv-txt h4 span {
+    font-size: 12px;
+}
+
+.headng1-dv-txt h4 {
+    font-size: 20px;
+    margin-left: 34px;
+}
+
+.headng2-dv-txt h4 span {
+    font-size: 12px;
+}
+
+.headng2-dv-txt h4 {
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.headng3-dv-txt h4 span {
+    font-size: 12px;
+}
+
+.headng3-dv-txt h4 {
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+
+
+/*about us page start here*/
+
+.dcl-dvv_txt p {
+    font-size: 16px;
+    padding-right: 0px;
+    line-height: 25px;
+}
+
+.dcl-dvv_plr img {
+    margin-top: -117px;
+}
+
+.dcl-dvv_txt h3 {
+   
+    margin-top: 0px;
+	font-size: 35px;
+}
+
+.sec-bnr p {
+    font-size: 18px;
+}
+
+.sec-bnr h4 {
+    font-size: 30px;
+}
+
+.mylbt
+{
+	margin-left:-200px;
+}
+
+/*contact us page start here*/
+
+.dcsc-dvv_plr img {
+    margin-top: -90px;
+}
+
+.dcsc-dvv_txt .form-group input {
+    padding: 8px 2px;
+    margin-top: 0px;
+}
+
+.dcsc-dvv_txt .form-group textarea {
+   
+    margin-top: 0px;
+}
+
+.dcsc-dvv_txt .submt {
+    padding: 0px 15px;
+}
+
+.dlv-env a {
+    font-size: 16px;
+}
+
+.dlv-env i {
+    font-size: 20px;
+}
+
+
+/*how to play page start here*/ 
+
+.dlc-hdng2 h5 {
+    font-size: 25px;
+}
+
+.dcpk-dvv_plr img {
+    margin-top: -162px;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width:415px){
+	
+.bnr1-prt input
+{
+	padding: 12px 0;
+	
+}
+
+.bt-frm
+{
+    padding: 0px 50px;
+	margin-left: -22px;
+   
+}
+
+.count
+{
+	font-size:23px;
+	
+}
+.subline
+{
+	font-size:15px;
+	
+}
+
+.headng1-dv-txt h4
+{
+	font-size:25px;
+	margin-left: 20px;
+	margin-top:20px;
+	
+}
+
+.headng1-dv-txt h4 span
+{
+	font-size:15px;
+	
+}
+
+.headng2-dv-txt h4
+{
+	font-size:25px;
+	margin-left: 20px;
+	margin-top:20px;
+	
+}
+
+.headng2-dv-txt h4 span
+{
+	font-size:15px;
+	
+}
+
+.headng3-dv-txt h4
+{
+	font-size:25px;
+	margin-left: 20px;
+	margin-top:20px;
+	
+}
+
+.headng3-dv-txt h4 span
+{
+	font-size:15px;
+	
+}
+
+
+
+
+.player-dv-txt .anbp
+{
+    padding: 1px 0;
+}
+
+.player-dv-txt .anbp img
+{
+    width: 60px;
+    height: 60px;
+    top: -10px;
+    left: -15px;
+}
+.player-dv-txt .anbp p
+{
+	
+	font-size:15px;
+}
+
+.player2-dv-txt .anbp
+{
+    padding: 1px 0;
+}
+
+.player2-dv-txt .anbp img
+{
+    width: 60px;
+    height: 60px;
+    top: -10px;
+    left: -15px;
+}
+.player2-dv-txt .anbp p
+{
+	
+	font-size:15px;
+}
+
+
+.flse-dv {
+    
+    margin-left: 40px;
+}
+
+
+
+
+.amnt-btn
+{
+	padding:5px 20px;
+	
+}
+
+.shap_l img
+{
+	height: 120px;
+}
+.shap_2 img
+{
+	height: 150px;
+}
+
+.upcmng-dv h4
+{
+	font-size:25px;
+}
+
+.upcoming_match-tab-dv .nav-pills
+{
+    top: 207px;
+}
+
+.upcoming_match-tab-dv .tab-content .nv-pll-hdng {
+	font-size:18px;
+	margin-top:-30px;
+}
+
+
+.upcoming_match-tab-dv .tab-content .nv-pll-parag {
+	font-size:16px;
+}
+
+.asd img
+{
+	width:100%;
+}
+
+
+.tm1-bgg {
+    height: 80px;
+}
+
+.tm1-bgg img {
+    width: 115px;
+    height: 115px;
+    top: -20px;
+    left: 35px;
+}
+
+.tm2-bgg {
+    height: 80px;
+}
+
+.tm2-bgg img {
+    width: 115px;
+    height: 115px;
+    top: -17px;
+    left: -40px;
+}
+
+.team-txt {
+    font-size: 20px;
+}
+.crcl-vs
+{
+	width:30px;
+	height:30px;
+	line-height: 30px;
+}
+
+.faq-dv-heading {
+    font-size: 25px;
+}
+
+.app_div h1 {
+    font-size: 30px;
+}
+
+/*about us page start here*/
+
+.dcl-dvv_plr img {
+    margin-top: -135px;
+	width: 100%;
+}
+
+.dcl-dvv_txt h3 {
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+.sec-bnr h4 {
+    font-size: 25px;
+}
+
+.mylbt {
+    margin-left: 320px;
+    margin-top: -47px;
+}
+
+/*contact us page start here*/
+
+.dcsc-dvv_txt .form-group input
+{
+	padding:15px 15px;
+	margin-top: 20px;
+}
+
+.dcsc-dvv_txt .form-group textarea {
+    margin-top: 20px;
+}
+
+.dcsc-dvv_txt .submt {
+    padding: 20px 15px;
+}
+
+
+/*how to play page start here*/ 
+
+.dlc-hdng2 h5 {
+    font-size: 24px;
+}
+
+.dcpk-dvv_plr img {
+    margin-top: -280px;
+}
+
+
+}
+
+@media screen and (max-width:375px){
+	
+	.app_div h1 {
+    font-size: 25px;
+}
+	.bt-frm
+{
+    padding: 0px 44px;
+   
+}
+
+.count
+{
+	font-size:20px;
+	
+}
+.subline
+{
+	font-size:12px;
+	
+}
+
+.decrb-dv-txt h4
+{
+	
+	font-size:27px;
+}
+
+.decrb-dv-txt h4 img
+{
+	width: 270px;
+}
+
+.headng1-dv-txt h1
+{
+	font-size:70px;
+}
+
+.headng1-dv-txt h4
+{
+	font-size:20px;
+	margin-left: 20px;
+	margin-top:17px;
+	
+}
+
+.headng1-dv-txt h4 span
+{
+	font-size:13px;
+	
+}
+
+.headng2-dv-txt h1
+{
+	font-size:70px;
+}
+
+.headng2-dv-txt h4
+{
+	font-size:20px;
+	margin-left: 20px;
+	margin-top:17px;
+	
+}
+
+.headng2-dv-txt h4 span
+{
+	font-size:13px;
+	
+}
+
+.headng3-dv-txt h1
+{
+	font-size:70px;
+}
+
+.headng3-dv-txt h4
+{
+	font-size:20px;
+	margin-left: 20px;
+	margin-top:17px;
+	
+}
+
+.headng3-dv-txt h4 span
+{
+	font-size:13px;
+	
+}
+
+.player-dv-txt .anbp p
+{
+	
+	font-size:15px;
+	text-align: right;
+    margin-right: 15px;
+}
+
+
+
+
+
+.shap_l img
+{
+	height: 105px;
+}
+.shap_2 img
+{
+	height: 130px;
+}
+
+.asd img
+{
+	width:130%;
+}
+
+
+.tm1-bgg {
+    height: 70px;
+}
+
+.tm1-bgg img {
+    width: 100px;
+    height: 100px;
+    top: -18px;
+    left: 30px;
+}
+
+.tm2-bgg {
+    height: 70px;
+}
+
+.tm2-bgg img {
+    width: 100px;
+    height: 100px;
+    top: -13px;
+    left: -35px;
+}
+
+.team-txt {
+    font-size: 18px;
+}
+
+
+/*about us page start here*/
+
+.mylbt {
+    margin-left: 290px;
+    margin-top: -47px;
+}
+
+.dcl-dvv_plr img {
+    margin-top: -125px;
+}
+
+/*contact us page start here*/
+
+
+
+
+
+/*how to play page start here*/ 
+
+.dcpk-dvv_plr img {
+    margin-top: -255px;
+}
+
+
+
+}
+
+
+@media screen and (max-width:360px){
+	
+	
+	.app_div h1 {
+    font-size: 22px;
+}
+	.logo1 img
+	{
+		width: 330px;
+		
+	}
+	
+	.bt-frm
+{
+    padding: 0px 38px;
+	margin-left: -20px;
+   
+}
+
+.subline
+{
+	font-size:11px;
+	
+}
+
+.bnr1-prt input
+{
+	padding: 12px 0;
+	font-size: 15px;
+}
+
+.decrb-dv-txt h4
+{
+	
+	font-size:25px;
+}
+
+.decrb-dv-txt h4 img
+{
+	width: 250px;
+}
+
+.headng1-dv-txt h1
+{
+	font-size:60px;
+}
+
+.headng1-dv-txt h4
+{
+	font-size:20px;
+	margin-left: 12px;
+	margin-top:15px;
+	
+}
+
+.headng2-dv-txt h1
+{
+	font-size:60px;
+}
+
+.headng2-dv-txt h4
+{
+	font-size:20px;
+	margin-left: 12px;
+	margin-top:15px;
+	
+}
+
+.headng3-dv-txt h1
+{
+	font-size:60px;
+}
+
+.headng3-dv-txt h4
+{
+	font-size:20px;
+	margin-left: 12px;
+	margin-top:15px;
+	
+}
+
+
+.shap_l img
+{
+	height: 100px;
+}
+.shap_2 img
+{
+	height: 110px;
+}
+
+
+/*about us page start here*/
+
+.mylbt {
+    margin-left: 270px;
+    margin-top: -47px;
+}
+
+.dcl-dvv_plr img {
+    margin-top: -125px;
+}
+
+
+/*contact us page start here*/
+
+
+
+
+
+/*how to play page start here*/ 
+
+.dcpk-dvv_plr img {
+    margin-top: -245px;
+}
+
+}
+
+@media screen and (max-width:320px){
+	.logo1 img
+	{
+		width: 285px;
+		
+	}
+	
+	.app_div h1 {
+    font-size: 20px;
+}
+	.bt-frm
+{
+    padding: 0px 29px;
+	margin-left: -20px;
+   
+}
+
+.bnr1-prt input
+{
+	padding: 15px 0;
+	font-size: 12px;
+}
+
+.count
+{
+	font-size:15px;
+	
+}
+
+
+.decrb-dv-txt h4
+{
+	
+	font-size:22px;
+}
+
+.decrb-dv-txt h4 img
+{
+	width: 230px;
+}
+
+.headng1-dv-txt h1
+{
+	font-size:50px;
+}
+
+.headng1-dv-txt h4
+{
+	font-size:15px;
+	margin-left: 10px;
+	margin-top:10px;
+	
+}
+
+.headng1-dv-txt h4 span
+{
+	font-size:11px;
+	
+}
+
+.headng2-dv-txt h1
+{
+	font-size:50px;
+}
+
+.headng2-dv-txt h4
+{
+	font-size:15px;
+	margin-left: 10px;
+	margin-top:10px;
+	
+}
+
+.headng2-dv-txt h4 span
+{
+	font-size:11px;
+	
+}
+
+
+.headng3-dv-txt h1
+{
+	font-size:50px;
+}
+
+.headng3-dv-txt h4
+{
+	font-size:15px;
+	margin-left: 10px;
+	margin-top:10px;
+	
+}
+
+.headng3-dv-txt h4 span
+{
+	font-size:11px;
+	
+}
+
+.player-dv-txt .anbp img
+{
+    width: 50px;
+    height: 50px;
+    top: -7px;
+    left: -15px;
+}
+.player-dv-txt .anbp p
+{
+	
+	font-size:12px;
+}
+
+.player2-dv-txt .anbp img
+{
+    width: 50px;
+    height: 50px;
+    top: -7px;
+    left: -15px;
+}
+.player2-dv-txt .anbp p
+{
+	
+	font-size:12px;
+}
+
+
+
+
+.upcmng-dv h4
+{
+	font-size:20px;
+}
+
+
+
+.tm1-bgg img {
+   
+    left: 18px;
+}
+
+
+
+.team-txt {
+    font-size: 15px;
+}
+
+.crcl-vs {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+}
+
+.upcoming_match-tab-dv .tab-content .nv-pll-hdng {
+    font-size: 15px;
+    margin-top: -30px;
+}
+
+.upcoming_match-tab-dv .tab-content .nv-pll-parag {
+    font-size: 13px;
+}
+
+.faq-dv-heading {
+    font-size: 20px;
+}
+
+
+/*about us page start here*/
+
+
+
+.mylbt {
+    margin-left: 230px;
+    margin-top: -47px;
+}
+
+.dcl-dvv_plr img {
+    margin-top: -114px;
+}
+
+
+
+
+/*contact us page start here*/
+
+
+
+
+
+/*how to play page start here*/ 
+
+.dcpk-dvv_plr img {
+    margin-top: -220px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
